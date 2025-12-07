@@ -1,5 +1,6 @@
 Django==5.2.7
 gunicorn
+whitenoise
 
 django-two-factor-auth==1.18.1
 django-otp==1.6.3
